@@ -6,10 +6,8 @@
     <meta name="author" content="Targmann Stormracer">
     <meta name="description" content="An HTML experiment in GitHub">
     <meta name="keywords" content="Targmann, Stormracer, HTML, experiment">
-    <style type="text/css"></style>
   </head>
   <body>
     <h1>Title</h1>
-    <script type="text/javascript"></script>
   </body>
 </html>
